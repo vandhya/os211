@@ -1,7 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-
 # Log Code References:
 #   L00 General Log
 #   L01 SCELE related
@@ -32,7 +31,6 @@
 #   L21 VirtualBox: install GNU/Linux, etc.
 #   L22 YouTube: study, etc.
 #   L99 Other (...)
-
 ZCZC W00 15  L03 GitHub related
 ZCZC W00 5   L05 GSGS related
 ZCZC W00 200 L21 VirtualBox: install GNU/Linux, etc.
