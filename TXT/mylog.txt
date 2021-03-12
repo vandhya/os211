@@ -31,20 +31,21 @@
 #   L21 VirtualBox: install GNU/Linux, etc.
 #   L22 YouTube: study, etc.
 #   L99 Other (...)
-ZCZC W00 15  L03 GitHub related
-ZCZC W00 5   L05 GSGS related
+ZCZC W00 15 L03 GitHub related
+ZCZC W00 5 L05 GSGS related
 ZCZC W00 200 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 150 L21 VirtualBox: Reinstall GNU/Linux and setting up
-ZCZC W01 60  L05 GSGS vi dan lain lain
+ZCZC W01 60 L05 GSGS vi dan lain lain
 ZCZC W01 100 L11 Assignment #1
-ZCZC W01 20  L12 Learnt bash & basic linux commands
-ZCZC W01 30  L13 Googled how to use vi and basic commands
-ZCZC W01 10  L14 dotbashaliases tested
-ZCZC W01 20  L15 Setup GitHub configs in debian
-ZCZC W01 5   L16 Updated mylog.txt thru debian os
-ZCZC W01 10  L17 Started top 10 list
-ZCZC W01 70  L17 Finished top 10 list
-ZCZC W01 15  L18 Started learning bash, sed, awk, etc
-ZCZC W01 10  L05 GSGS mengenai tipe-tipe linux
-ZCZC W01 1   L27 Pets: Belly rubbing the dog
-ZCZC W01 60  L26 Chillin
+ZCZC W01 20 L12 Learnt bash & basic linux commands
+ZCZC W01 30 L13 Googled how to use vi and basic commands
+ZCZC W01 10 L14 dotbashaliases tested
+ZCZC W01 20 L15 Setup GitHub configs in debian
+ZCZC W01 5 L16 Updated mylog.txt thru debian os
+ZCZC W01 10 L17 Started top 10 list
+ZCZC W01 70 L17 Finished top 10 list
+ZCZC W01 15 L18 Started learning bash, sed, awk, etc
+ZCZC W01 10 L05 GSGS mengenai tipe-tipe linux
+ZCZC W01 1 L27 Pets: Belly rubbing the dog
+ZCZC W01 60 L26 Chillin
+ZCZC W02 30 L05 Reading about SHA256 and others
