@@ -1,5 +1,5 @@
-[W01](w01) | [W02](w02) | 
-[LOG](TXT/mylog.txt) | 
+[W01](https://vandhya.github.io/os211/W01) | [W02](https://vandhya.github.io/os211/W02) | 
+[LOG](https://vandhya.github.io/os211/TXT/mylog.txt) | 
 [GitHub](https://github.com/vandhya/os211)
 
 ### vandhya - Arllivandhya Dani
