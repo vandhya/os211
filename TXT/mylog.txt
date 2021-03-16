@@ -54,4 +54,9 @@ ZCZC W02 20 L13 Generate GnuPG key pair
 ZCZC W02 10 L14 Imported public key
 ZCZC W02 5 L15 Export my public key
 ZCZC W02 15 L16 Ranked the top 3 pages from W01
-ZCZC W02 5 L18 Copied myscript.sh to vbox
+ZCZC W02 5 L19 Copied myscript.sh to vbox
+ZCZC W02 10 L12 Skimmed through OSC10
+ZCZC W02 15 L17 Picked my best neighbors
+ZCZC W02 60 L18 Finished top 10 pages of the week
+ZCZC W02 10 L20 Updated mylog.txt and made SHA256SUM
+ZCZC W02 60 L22 Watched CS50 lecture
