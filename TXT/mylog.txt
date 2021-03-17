@@ -60,3 +60,14 @@ ZCZC W02 15 L17 Picked my best neighbors
 ZCZC W02 60 L18 Finished top 10 pages of the week
 ZCZC W02 10 L20 Updated mylog.txt and made SHA256SUM
 ZCZC W02 60 L22 Watched CS50 lecture
+ZCZC W03 80 L02 ZOOM Synchronous class
+ZCZC W03 20 L06 Read FUSE tutorial
+ZCZC W03 10 L13 Updated .bash_aliases
+ZCZC W03 15 L14 Ranked my neighbors
+ZCZC W03 10 L16 Updated log
+ZCZC W03 50 L17 Did assignment 3
+ZCZC W03 10 L18 Updated bash script
+ZCZC W03 1 L19 Signed SHA256SUM
+ZCZC W03 5 L11 Skimmed through OSC-10
+ZCZC W03 20 L12 Tried demos
+
