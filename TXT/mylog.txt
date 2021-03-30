@@ -48,3 +48,5 @@ ZCZC W04 15 L13 Updated myrank
 ZCZC W04 60 L16 Skimmed TLPI
 ZCZC W04 5 L17 Updated myscript.sh
 ZCZC W04 1 L18 Signed
+ZCZC W04 120 L14 Created top 10 lists
+ZCZC W04 10 L15 Updated mylog
