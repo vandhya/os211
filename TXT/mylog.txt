@@ -50,3 +50,15 @@ ZCZC W04 5 L17 Updated myscript.sh
 ZCZC W04 1 L18 Signed
 ZCZC W04 120 L14 Created top 10 lists
 ZCZC W04 10 L15 Updated mylog
+ZCZC W05 30 L05 GSGS mengenai virtual memory
+ZCZC W05 30 L11 Read virtual memory slide
+ZCZC W05 10 L12 Ranked my neighbors
+ZCZC W05 69 L13 Created top 10 links
+ZCZC W05 30 L14 Did assignment
+ZCZC W05 1 L15 Update log
+ZCZC W05 1 L16 Made encryption
+ZCZC W05 20 L27 Had conversation with Milo about life
+ZCZC W05 10 L22 Watched some virtual memory tutorials
+ZCZC W05 100 L26 Watched some virtual youtubers
+
+
