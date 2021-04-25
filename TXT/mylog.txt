@@ -60,5 +60,13 @@ ZCZC W05 1 L16 Made encryption
 ZCZC W05 20 L27 Had conversation with Milo about life
 ZCZC W05 10 L22 Watched some virtual memory tutorials
 ZCZC W05 100 L26 Watched some virtual youtubers
-
-
+ZCZC W06 80 L02 ZOOM Sync
+ZCZC W06 30 L12 Tried demos
+ZCZC W06 30 L11 Read virtual memory slide
+ZCZC W06 10 L12 Ranked my neighbors
+ZCZC W06 69 L13 Created top 10 links
+ZCZC W06 30 L14 Did assignment
+ZCZC W06 1 L15 Update log
+ZCZC W06 1 L16 Made encryption
+ZCZC W06 30 L22 Watched some multithreading videos
+ZCZC W06 30 L26 Watched youtube videos about delta p
