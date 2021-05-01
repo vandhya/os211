@@ -81,3 +81,4 @@ ZCZC W07 1 L15 Update log
 ZCZC W07 1 L16 Made encryption
 ZCZC W07 100 L26 Watched new vsauce video & others
 ZCZC W07 30 L27 Took Milo for a walk
+ZCZC W07 80 L06 Reading References/Books/Documents
