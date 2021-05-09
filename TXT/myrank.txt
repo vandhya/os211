@@ -19,3 +19,6 @@ ZCZC W06 Veniche
 ZCZC W07 X1non
 ZCZC W07 YasyfaWiwaha
 ZCZC W07 zulfankasilas
+ZCZC W08 zaki-indra
+ZCZC W08 YasyfaWiwaha
+ZCZC W08 zulfankasilas

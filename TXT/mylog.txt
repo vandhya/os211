@@ -82,3 +82,13 @@ ZCZC W07 1 L16 Made encryption
 ZCZC W07 100 L26 Watched new vsauce video & others
 ZCZC W07 30 L27 Took Milo for a walk
 ZCZC W07 80 L06 Reading References/Books/Documents
+ZCZC W08 80 L02 ZOOM Sync
+ZCZC W08 20 L01 Read SCELE forums
+ZCZC W08 30 L11 Read slide
+ZCZC W08 10 L12 Ranked my neighbors
+ZCZC W08 80 L13 Created top 10 links
+ZCZC W08 60 L14 Did W08 assignment
+ZCZC W08 1 L15 Update log
+ZCZC W08 1 L16 Made encryption
+ZCZC W08 30 L27 Took Milo for a walk
+ZCZC W08 80 L06 Reading References/Books/Documents
