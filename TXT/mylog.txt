@@ -92,3 +92,12 @@ ZCZC W08 1 L15 Update log
 ZCZC W08 1 L16 Made encryption
 ZCZC W08 30 L27 Took Milo for a walk
 ZCZC W08 80 L06 Reading References/Books/Documents
+ZCZC W09 100 L06 Reading References/Books/Documents
+ZCZC W09 20 L01 Read SCELE forums
+ZCZC W09 30 L11 Read slide
+ZCZC W09 10 L12 Ranked my neighbors
+ZCZC W09 80 L13 Created top 10 links
+ZCZC W09 60 L14 Did W08 assignment
+ZCZC W09 1 L15 Update log
+ZCZC W09 1 L16 Made encryption
+
